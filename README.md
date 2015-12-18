@@ -1,10 +1,8 @@
 # x3dom dist
 
-> x3dom packaged for npm and bower
+> A framework for integrating and manipulating X3D scenes as HTML5/DOM elements
 
 [![x3dom](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][1]
-
-> A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
 
 [![NPM](https://nodei.co/npm-dl/x3dom.png)](https://nodei.co/npm-dl/x3dom/)
 

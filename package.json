@@ -1,7 +1,7 @@
 {
   "name": "x3dom",
   "version": "1.6.0",
-  "description": "x3dom packaged for npm and bower",
+  "description": "A framework for integrating and manipulating X3D scenes as HTML5/DOM elements",
   "main": "x3dom.js",
   "style": "x3dom.css",
   "scripts": {
@@ -16,10 +16,6 @@
     "x3d",
     "x3dom"
   ],
-  "author": {
-    "name": "Gianluca Casati",
-    "url": "http://g14n.info"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/x3dom/x3dom/issues"
