@@ -1,0 +1,28 @@
+{
+  "name": "x3dom",
+  "version": "1.6.0",
+  "description": "x3dom packaged for npm and bower",
+  "main": "x3dom.js",
+  "style": "x3dom.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fibo/x3dom-dist.git"
+  },
+  "keywords": [
+    "3d",
+    "x3d",
+    "x3dom"
+  ],
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x3dom/x3dom/issues"
+  },
+  "homepage": "http://x3dom.org"
+}
