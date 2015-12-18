@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fibo/x3dom-dist.git"
+    "url": "git://github.com/x3dom/dist.git"
   },
   "keywords": [
     "3d",
