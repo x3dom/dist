@@ -21,3 +21,7 @@ $ bower install x3dom
 ```
 
   [1]: http://x3dom.org "x3dom"
+
+## License
+
+[MIT OR GPL-3](https://github.com/x3dom/x3dom/blob/master/LICENSE)
