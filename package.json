@@ -16,7 +16,7 @@
     "x3d",
     "x3dom"
   ],
-  "license": "MIT",
+  "license": "MIT OR GPL-3.0",
   "bugs": {
     "url": "https://github.com/x3dom/x3dom/issues"
   },
