@@ -2,13 +2,15 @@
 
 > A framework for integrating and manipulating X3D scenes as HTML5/DOM elements
 
-[![x3dom](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][1]
+[![NPM version](https://badge.fury.io/js/x3dom.svg)](http://badge.fury.io/js/x3dom)
+
+[![x3dom_logo](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][x3dom]
 
 [![NPM](https://nodei.co/npm-dl/x3dom.png)](https://nodei.co/npm-dl/x3dom/)
 
 ## Installation
 
-To install [x3dom][1] you can choose one of the following options.
+To install [x3dom] you can choose one of the following options.
 
 With [npm](https://npmjs.org/) do
 
@@ -33,5 +35,5 @@ Use a CDN: add the following tags to your HTML page
 
 [MIT OR GPL-3](https://github.com/x3dom/x3dom/blob/master/LICENSE)
 
-  [1]: http://x3dom.org "x3dom"
+[x3dom]: http://x3dom.org "x3dom"
 
