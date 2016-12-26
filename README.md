@@ -1,4 +1,4 @@
-# [![x3dom_logo](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][x3dom] x3dom dist
+# [![x3dom_logo](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][x3dom]
 
 > A framework for integrating and manipulating X3D scenes as HTML5/DOM elements
 
