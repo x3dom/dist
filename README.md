@@ -2,8 +2,7 @@
 
 > A framework for integrating and manipulating X3D scenes as HTML5/DOM elements
 
-
-[![NPM](https://nodei.co/npm-dl/x3dom.png)](https://nodei.co/npm-dl/x3dom/)
+[![NPM version](https://badge.fury.io/js/x3dom.svg)](http://badge.fury.io/js/x3dom)
 
 ## Installation
 
