@@ -23,8 +23,8 @@ bower install x3dom
 Use a CDN: add the following tags to your HTML page
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/x3dom/dist/master/x3dom.css">
-<script type="text/javascript" src="https://cdn.rawgit.com/x3dom/dist/master/x3dom.js"></script>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/x3dom/x3dom.css">
+<script type="text/javascript" src="https://unpkg.com/x3dom/x3dom.js"></script>
 ```
 
 ## License
