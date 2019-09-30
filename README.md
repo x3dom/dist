@@ -6,21 +6,13 @@
 
 ## Installation
 
-To install [x3dom] you can choose one of the following options.
-
-With [npm] do
+To install [x3dom] with [npm] do
 
 ```bash
 npm install x3dom
 ```
 
-With [bower] do
-
-```bash
-bower install x3dom
-```
-
-Use a CDN: add the following tags to your HTML page
+To use a CDN, add the following tags to your HTML page
 
 ```html
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/x3dom/x3dom.css">
@@ -31,7 +23,6 @@ Use a CDN: add the following tags to your HTML page
 
 [MIT OR GPL-3](https://github.com/x3dom/x3dom/blob/master/LICENSE)
 
-[bower]: http://bower.io/ "bower"
 [npm]: https://npmjs.org/ "npm"
 [x3dom]: http://x3dom.org "x3dom"
 
