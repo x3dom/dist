@@ -1,4 +1,4 @@
-# [![x3dom_logo](http://www.x3dom.org/wp-content/themes/x3domnew/x3dom_logo.png)][x3dom]
+<img src="https://raw.githubusercontent.com/x3dom/dist/main/x3dom_logo.png" height="71"/>
 
 > A framework for integrating and manipulating X3D scenes as HTML5/DOM elements
 
@@ -8,7 +8,7 @@
 
 To install [x3dom] with [npm] do
 
-```bash
+```sh
 npm install x3dom
 ```
 
@@ -21,8 +21,7 @@ To use a CDN, add the following tags to your HTML page
 
 ## License
 
-[MIT OR GPL-3](https://github.com/x3dom/x3dom/blob/master/LICENSE)
+[MIT OR GPL-3](https://github.com/x3dom/x3dom/blob/master/LICENSE.md)
 
 [npm]: https://npmjs.org/ "npm"
 [x3dom]: http://x3dom.org "x3dom"
-
